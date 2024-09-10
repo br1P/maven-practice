@@ -1,0 +1,7 @@
+User choosed: 1
+User entered text: Hello
+User choosed: 2
+User entered file path: session_log.txt
+Error reading file: session_log.txt
+User choosed: 3
+User exited the program
