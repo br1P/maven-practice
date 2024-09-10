@@ -1,0 +1,16 @@
+
+HW 10.09
+1-Сreate a new project (Maven) ✔️
+2-Create a program with a console interface, with the ability to enter text from the console
+ and read an existing text file✔️
+3-Write the results of program execution during the session (Before clicking the Exit button) to a file ✔️ Session_Log.txt
+Program requirements:
+4-Calculate the number of unique words in the text (case insensitive) ✔️ Case 3
+5-Calculate the number of letters in the text (without spaces) ✔️
+6-Find the number of matches of words in the text (Searching for a word in the text, the program should not search for 1 letter, we should receive an error, the program should ask to enter the word)
+7-Writing and reading a file using FileUtils ❔ number 2 swapped to FileUtils
+Use as many methods as possible from StringUtils to implement the requirements
+✔️Split/deleteWhitespace
+
+To do:
+Separate methods in classes

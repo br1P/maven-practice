@@ -5,3 +5,86 @@ User entered file path: session_log.txt
 Error reading file: session_log.txt
 User choosed: 3
 User exited the program
+User choosed: 1
+User entered text: The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+User choosed: 2
+User entered file path: session_log.txt
+File content: 
+User choosed: 1
+User entered text: Hello
+User choosed: 2
+User entered file path: session_log.txt
+Error reading file: session_log.txt
+User choosed: 3
+User exited the program
+
+User choosed: 6
+User exited the program
+User choosed: 4
+Letter count (no spaces): 5
+User choosed: 2
+User entered file path: session_log.txt
+File content: 
+User choosed: 1
+User entered text: Hello
+User choosed: 2
+User entered file path: session_log.txt
+Error reading file: session_log.txt
+User choosed: 3
+User exited the program
+User choosed: 1
+User entered text: The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+User choosed: 2
+User entered file path: session_log.txt
+File content: 
+User choosed: 1
+User entered text: Hello
+User choosed: 2
+User entered file path: session_log.txt
+Error reading file: session_log.txt
+User choosed: 3
+User exited the program
+
+User choosed: 6
+User exited the program
+
+User choosed: 3
+Unique words count: 22
+User choosed: 4
+Letter count (no spaces): 11
+User choosed: 5
+Text to search: The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+Word to find: fox
+Word occurrences: 3
+User choosed: 6
+User exited the program
+User chose: 2
+User entered file path: example.txt
+File content: 
+The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+User chose: 3
+Unique words count: 22
+User chose: 4
+Letter count (no spaces): 10
+User chose: 5
+Text to search: The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+Word to find: fox
+Word occurrences: 3
+User chose: 6
+User exited the program
+User chose: 1
+User entered text: Hello world
+User chose: 2
+User entered file path: example.txt
+File content: 
+The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+User chose: 3
+Unique words count: 3
+User chose: 4
+Letter count (no spaces): 10
+User chose: 5
+Text to search: The quick brown fox jumps over the lazy dog. The fox then runs swiftly through the forest, where another fox is waiting. Together, the two foxes explore the wilderness.
+Word to find: fox
+Word occurrences: 3
+User chose: 6
+User exited the program
